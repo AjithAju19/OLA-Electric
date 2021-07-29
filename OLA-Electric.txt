@@ -1,0 +1,323 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>OLA  Electric</title>
+    <style>
+      .bgimage{
+        position:relative;
+        width:100%;
+        margin: auto;
+        
+        
+      }
+      .logo{
+        position: absolute;
+        top: 20px;
+        left: 20px;
+      }
+      .div1{
+        position: absolute;
+        text-align: center;
+        top:50%;
+        left: 50%;
+        color: #FFFFFF;
+        font-size: 35px;
+        font-family:sans-serif;
+      }
+      u{
+        text-decoration-color: rgb(138, 247, 88);
+      }
+      .div2{
+        position: absolute;
+        bottom: 8px;
+        right:16px;
+        font-size: 25px;
+        color: #FFFFFF;
+      }
+      .btndiv button{
+        background-color: black;
+        color: #FFFFFF;
+        border: 2px solid black;
+        padding: 5px 10px;
+        text-align: center;
+        top: 25px;
+        right: 75px;
+        width: 100px;
+        position: absolute;
+        font-size: medium;
+        font-family: sans-serif;
+        transition-duration: 0.4s;
+        line-height: 22px;
+        cursor: pointer;
+        border-radius: 5px;
+      }
+      button:hover{
+        background-color: rgb(71, 69, 69);
+        color: #FFFFFF;
+      }
+      .div3{
+        float: right;
+        text-align:left;
+        font-family: sans-serif;
+        font-size: 25px;
+      }
+      .div4{
+        float:right;
+      }
+      .div5{
+        float:left;
+        text-align:left;
+        font-family: sans-serif;
+        font-size: 20px;
+        
+      }
+      .div6{
+        float: left;
+      }
+      .div7{
+        float: right;
+        font-family: sans-serif;
+        font-size: 22px;
+      }
+      .div8{
+        float:left;
+        display: block;
+        text-align: center;
+        padding: 10px; 
+      }
+      table{
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 65%;
+      }
+      td,th{
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+       .div9 h1{
+        font-size:45px;
+      }
+      .div9 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+      }
+      .div10{
+        background-color: black;
+        color: #FFFFFF;
+      }
+      .div10 p{
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align:left;
+      } 
+    #button1{
+      margin: 25px;
+      bottom: 8px;
+      right: 16px;
+      font-family: Arial, Helvetica, sans-serif;
+      height:60px;
+    	width:100px;
+	    background-color:whitesmoke;
+
+	    color:black;
+	    border-radius:4px;
+	    text-align:center;
+	    
+      
+      line-height: 22px;
+      right: 16px;
+      cursor: pointer;
+    }
+    #button1:hover{
+        background-color: rgb(71, 69, 69);
+        color: #FFFFFF;
+      }
+
+    </style>
+  </head>
+  <body>
+    <img src = "ola-ceo-test-rides-upcoming-electric-scooter-ahead-launch.png" class = "bgimage" alt = "OLA electric scooter background">
+      <a href = "#">  
+      <img src = "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202102/ola_660_250221113855.jpg?size=1200:675" class = "logo" alt = "OLA logo" weight = "50" height ="50">
+    </a>
+    <div class = "div1">
+      <p>Ready or not, a revolution is coming</p>
+      <p><u><b> #JoinTheRevolution</b></u></p>
+    </div>
+    <div class = "div2">
+      <marquee width="100%" direction="left" height="35px" bgcolor ="black">
+        Don't miss the chance to be a part of the future of mobility. Join The Revolution today. Reserve now at just Rs.499!
+        </marquee>
+    </div>
+    <div class = "btndiv">
+    <button type = "button" onclick="window.location.href = 'https://www.olaelectric.com/phoneNumber'">Reserve for Rs.499</button>
+  </div>
+    <div class="divi">
+      <img src="many_colors.jpeg" alt = "OLA scooters" hspace = "50" vspace = "50">
+      <div class = "div3">
+        <h1><u>Many colours,<br> all green</u></h1>
+        <p>A first for your eyes - a splash of vivid, colourful<br> scooters that go with who you are on the inside.<br> All while keeping it green.</p>
+      </div>
+    </div>
+    <div class="div4">
+      <img src="ola.jpeg" alt = "OLA scooter">
+    </div>
+    <div class = "div5">
+      <h1><u>A revolution<br> on two wheels</u></h1>
+      <ul style = "list-style-type: none;">
+        <li><h2>
+          Quick to conquer</h2></li>
+          <p>Takes the lead with breathtaking acceleration that’s faster than fast.</p>
+          <li><h2>
+            Made to manoeuvre</h2></li>
+            <p>Comes slick with superb traction for exceptional handling on all surfaces.
+            </p>
+            <li><h2>Big on boot space</h2></li>
+            <p>Holds helmets for two and still leaves space to pack in more.</p>
+      </ul>
+    </div>
+    <div class="div6">
+      <img src = "ola-charging.jpeg" alt="ola charging" hspace = "50" vspace = "50" width = "65%">
+    </div>
+    <div class = "div7">
+      <h1><u>Go anywhere,<br>charge everywhere</u></h1>
+        <p>We’re putting all our energies behind moving the <br>world towards a sustainable future. It’s why <br>we’re building the world’s largest, densest two<br> wheeler charging network.<a href = "https://www.olaelectric.com/hyperchargernetwork" title = "More about OLA HyperCharger">Click here</a></p>
+        <div class="div8">
+            <ul style = "list-style-type: none;">
+              <li>400<br>
+                CITIES</li><br>
+              <li>100K+<br>
+                CHARGING POINTS</li><br>
+              <li>75 KM<br>
+                RANGE IN 18 MIN</li>
+            </ul>
+          
+        </div>
+    </div>
+    <br>
+    <div class = "div9">
+     <h1><u>Specifications</u></h1>
+      <table>
+        <tr>
+          <th>Engine and Transmission</th>
+          <th></th>
+        </tr>
+        <tr>
+          <td>Max Torque</td>
+          <td>50 Nm</td>
+        </tr>
+        <tr>
+          <td>Drive Type</td>
+          <td>Belt Drive</td>
+        </tr>
+        <tr>
+          <td>Motor Type</td>
+          <td>AC Brushless</td>
+        </tr>
+        <tr>
+          <td>Motor Power</td>
+          <td>6000 W</td>
+        </tr>
+        <tr>
+          <td>Range</td>
+          <td>80 km/charge</td>
+        </tr>
+        <tr>
+          <td>Starting</td>
+          <td>Remote Start,Push Button Start</td>
+        </tr>
+        <tr>
+          <td>Transmission</td>
+          <td>Automatic</td>
+        </tr>
+        <tr>
+          <th>Features and Security</th>
+        </tr>
+        <tr>
+          <td>Charging Point</td>
+          <td>Yes</td>
+        </tr>
+        <tr>
+          <td>Mobile Connectivity</td>
+          <td>Bluetooth,WiFi</td>
+        </tr>
+        <tr>
+          <td>Speedometer</td>
+          <td>Digital</td>
+        </tr>
+        <tr>
+          <td>Console</td>
+          <td>Digital</td>
+        </tr>
+        <tr>
+          <td>Display</td>
+          <td>7 inch full color touch screen</td>
+        </tr>
+        <tr>
+          <th>Suspension</th>
+        </tr>
+        <tr>
+          <td>Front Suspension</td>
+          <td>Telescopic Single Shock Headstock</td>
+        </tr>
+        <tr>
+          <td>Rear Suspension</td>
+          <td>Horizontally Mounted Shock Absorber with<br> Progressive Geometry</td>
+        </tr>
+        <tr>
+          <th>Dimensions and Capacity</th>
+        </tr>
+        <tr>
+          <td>Length</td>
+          <td>1860 mm</td>
+        </tr>
+        <tr>
+          <td>Width</td>
+          <td>700 mm</td>
+        </tr>
+        <tr>
+          <td>Height</td>
+          <td>1155 mm</td>
+        </tr>
+        <tr>
+          <td>Underseat Storage</td>
+          <td>50 L</td>
+        </tr>
+        <tr>
+          <th>Electricals</th>
+        </tr>
+        <tr>
+          <td>HeadLight</td>
+          <td>LED</td>
+        </tr>
+        <tr>
+          <td>Tail Light</td>
+          <td>LED</td>
+        </tr>
+        <tr>
+          <td>Turn Signal Lamp</td>
+          <td>LED</td>
+        </tr>
+        <tr>
+          <td>Battery Capacity</td>
+          <td>1155 Wh</td>
+        </tr>
+        <tr>
+          <td>Low Battery Indicator</td>
+          <td>Yes</td>
+        </tr>
+      </table>
+      <br>
+    <p>For more information, please reach out to support by mailing at <strong>support@olaelectric.com</strong></p>
+    </div>
+    <div class = "div10">
+      <br>
+      <p><b><u>#JoinTheRevolution</u></b></p>
+      <button id = "button1" onclick="window.location.href = 'https://www.olaelectric.com/phoneNumber'">Reserve for Rs.499</button>
+      <br>
+    </div>
+        
+  </body>
+</html>
